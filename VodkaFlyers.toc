@@ -1,0 +1,7 @@
+## Interface: 100002
+## Version: 1.93
+## Title: VodkaFlyers
+## Author: Gendi
+## X-Category: Interface Enhancements
+
+VodkaFlyers.lua
